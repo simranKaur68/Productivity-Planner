@@ -33,4 +33,4 @@ and stay consistent without distractions.
 
 A simple and calm interface designed to keep you focused.
 
-[!Productivity Planner Preview](./screenshots/planner.png)
+![Productivity Planner Preview](./screenshots/planner.png)
